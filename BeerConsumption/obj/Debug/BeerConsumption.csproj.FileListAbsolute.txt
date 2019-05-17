@@ -1,0 +1,152 @@
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\BeerConsumption.dll.config
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\BeerConsumption.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\BeerConsumption.pdb
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\csc.exe
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\csc.exe.config
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\csc.rsp
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\csi.exe
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\csi.exe.config
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\csi.rsp
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.AppContext.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Console.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.IO.Compression.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.IO.Pipes.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.AccessControl.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.Claims.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.ValueTuple.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\vbc.exe
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\vbc.exe.config
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\vbc.rsp
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\VBCSCompiler.exe
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Antlr3.Runtime.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Newtonsoft.Json.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Helpers.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Mvc.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Optimization.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Razor.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.WebPages.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.WebPages.Razor.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\WebGrease.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Helpers.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Mvc.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Optimization.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.Razor.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.WebPages.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\System.Web.WebPages.Razor.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Newtonsoft.Json.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Antlr3.Runtime.pdb
+D:\Projects\BE\BeerConsumption\BeerConsumption\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\BE\BeerConsumption\BeerConsumption\obj\Debug\BeerConsumption.csprojAssemblyReference.cache
+D:\Projects\BE\BeerConsumption\BeerConsumption\obj\Debug\BeerConsumption.csproj.CoreCompileInputs.cache
+D:\Projects\BE\BeerConsumption\BeerConsumption\obj\Debug\BeerConsumption.csproj.CopyComplete
+D:\Projects\BE\BeerConsumption\BeerConsumption\obj\Debug\BeerConsumption.dll
+D:\Projects\BE\BeerConsumption\BeerConsumption\obj\Debug\BeerConsumption.pdb
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\BeerConsumption.dll.config
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\BeerConsumption.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\BeerConsumption.pdb
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\csc.exe
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\csc.exe.config
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\csc.rsp
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\csi.exe
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\csi.exe.config
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\csi.rsp
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.AppContext.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Collections.Immutable.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Console.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.IO.Compression.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.IO.FileSystem.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.IO.Pipes.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Reflection.Metadata.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.AccessControl.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.Claims.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.ValueTuple.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Xml.XPath.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\vbc.exe
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\vbc.exe.config
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\vbc.rsp
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\VBCSCompiler.exe
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\roslyn\VBCSCompiler.exe.config
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Antlr3.Runtime.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Microsoft.Web.Infrastructure.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Newtonsoft.Json.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Helpers.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Mvc.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Optimization.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Razor.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.WebPages.Deployment.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.WebPages.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.WebPages.Razor.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\WebGrease.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Helpers.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Mvc.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Optimization.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.Razor.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.WebPages.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.WebPages.Deployment.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\System.Web.WebPages.Razor.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Newtonsoft.Json.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Antlr3.Runtime.pdb
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\obj\Debug\BeerConsumption.csprojAssemblyReference.cache
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\obj\Debug\BeerConsumption.csproj.CoreCompileInputs.cache
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\obj\Debug\BeerConsumption.csproj.CopyComplete
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\obj\Debug\BeerConsumption.dll
+D:\SitecoreTraining\Macaw\Sitecore Training LT - General\Code\Day3\BeerConsumption\Code\7\fix\BeerConsumption\obj\Debug\BeerConsumption.pdb
